@@ -1,4 +1,4 @@
-realease:
+release:
   image: web
   command:
     - ./run.sh
