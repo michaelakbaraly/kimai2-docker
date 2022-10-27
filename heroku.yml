@@ -1,0 +1,4 @@
+run:
+  image: web
+  command:
+    - ./run.sh
